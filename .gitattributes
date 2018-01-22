@@ -62,4 +62,4 @@
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 
-*.c linguist-language=c++
+*.c linguist-language=go
