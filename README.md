@@ -2,10 +2,13 @@
 * A primary CG program served as a CG class project in SJTU.
 * Implement a scene including weather, time, fires, glacier and a (impressionistic) phenix.
 * Particle genators make up most of the project.
+* You will not run this project on your own computer successfully without some libraries that need to be carefully prepared and placed for the building and linking. Take a reference to the Report to know more.
+* If you want to know briefly about the result, you can watch the Video, which is not so clear but compact.
+* This project just serve as a backup for myself now.
 
 ## Tools
 Developed by vs2017, opengl 330 (core mode) and so on.
-Make references to LearnOpenGL.
+Took references to LearnOpenGL.
 
 
 ## Functions
