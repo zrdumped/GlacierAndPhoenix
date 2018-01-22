@@ -4,7 +4,7 @@
 * Particle genators make up most of the project.
 * You will not run this project on your own computer successfully without some libraries that need to be carefully prepared and placed for the building and linking. Take a reference to the Report to know more.
 * If you want to know briefly about the result, you can watch the Video, which is not so clear but compact.
-* This project just serve as a backup for myself now.
+* This project just serve as a backup for myself now. And most files are copied from my project diirectly, so the project structure may be disordered.
 
 ## Tools
 Developed by vs2017, opengl 330 (core mode) and so on.
