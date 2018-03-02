@@ -1,5 +1,6 @@
 # GlacierAndPhenix
 * A primary CG program served as a CG class project in SJTU.
+* Developed by OpenGL (Core-profile).
 * Implement a scene including weather, time, fires, glacier and a (impressionistic) phenix.
 * Particle genators make up most of the project.
 * You will not run this project on your own computer successfully without some libraries that need to be carefully prepared and placed for the building and linking. Take a reference to the Report to know more.
