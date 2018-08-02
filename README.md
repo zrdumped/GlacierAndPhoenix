@@ -6,6 +6,9 @@
 * You will not run this project on your own computer successfully without some libraries that need to be carefully prepared and placed for the building and linking. Take a reference to the Report to know more.
 * The result can be seen clearly through the [video](http://www.google.com)
 
+## Screenshots
+
+
 ## Tools
 Developed by vs2017, opengl 330 (core mode) and so on.
 Took references to LearnOpenGL.
